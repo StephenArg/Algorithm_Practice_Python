@@ -12,26 +12,8 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/electionWinners.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="525">
-              <caret line="35" selection-start-line="35" selection-end-line="35" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/isMAC48Address.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="27" column="55" selection-start-line="27" selection-start-column="55" selection-end-line="27" selection-end-column="55" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/lineEncoding.py">
+        <entry file="file://$PROJECT_DIR$/validTime.py">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
@@ -40,8 +22,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Python Script" />
         <option value="JavaScript File" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
@@ -57,6 +39,8 @@
         <option value="$PROJECT_DIR$/electionWinners.py" />
         <option value="$PROJECT_DIR$/isMAC48Address.py" />
         <option value="$PROJECT_DIR$/practice.js" />
+        <option value="$PROJECT_DIR$/lineEncoding.py" />
+        <option value="$PROJECT_DIR$/validTime.py" />
       </list>
     </option>
   </component>
@@ -171,12 +155,12 @@
       <updated>1561345975291</updated>
       <workItem from="1561345976446" duration="703000" />
       <workItem from="1561410339211" duration="3589000" />
-      <workItem from="1561422536838" duration="1283000" />
+      <workItem from="1561422536838" duration="2481000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5575000" />
+    <option name="totallyTimeSpent" value="6773000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="2" y="23" width="1678" height="1027" extended-state="0" />
@@ -196,7 +180,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32941177" />
+      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.32941177" />
       <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -245,6 +229,13 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lineEncoding.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="35" column="21" lean-forward="true" selection-start-line="35" selection-start-column="21" selection-end-line="35" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/validTime.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
